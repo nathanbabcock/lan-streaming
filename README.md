@@ -24,7 +24,7 @@ low latency combo, even over localhost. Here's some protocols that _aren't_ a go
 *WebRTC always seems to have around ~0.5sec of delay even with the fastest possible
 encoding settings. It also forces you to use a heavy codec like H264 or VP8, and playback is delayed by a
 jitter buffer that is outside of any
-[direct](https://www.google.com/search?q=playbackdelayhint) control.
+[direct](https://www.google.com/search?q=playoutDelayHint) control.
 
 Good candidates for this transport might be:
 
