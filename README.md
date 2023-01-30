@@ -31,7 +31,7 @@ Good candidates for this transport might be:
 - [WebTransport](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport):
   http3 Websocket successor, with a low-latency [Datagrams
   API](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport/datagrams)
-- Websocket Data Channel + WASM custom encoder: actually the approach [used by Zoom](https://youtu.be/99FqwKka6mg)
+- WebRTC Data Channel + WASM custom encoder: actually the approach [used by Zoom](https://youtu.be/99FqwKka6mg)
 
 An embedded browser use-case makes the relative support/adoption level of these
 cutting-edge APIs a non-factor, meaning they can be used in this situation much
