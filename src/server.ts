@@ -2,7 +2,7 @@ import {
   Http3Server,
   type WebTransportBidirectionalStream,
 } from '@fails-components/webtransport'
-import certificate from '../cert.json' assert { type: 'json' }
+import certificate from '../cert/cert.json' assert { type: 'json' }
 
 console.log('Hello world!')
 

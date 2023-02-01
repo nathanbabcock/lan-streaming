@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --ignore-certificate-errors-spki-list=6C:09:0E:6F:46:31:96:95:98:74:FE:E8:77:E3:78:56:76:8D:95:44:84:0B:FB:F8:EE:2E:34:5D:48:F4:A3:63 --ignore-certificate-errors --v=2 --enable-logging=stderr --origin-to-force-quic-on=192.168.1.64:8080
