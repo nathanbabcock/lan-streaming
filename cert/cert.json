@@ -1,0 +1,43 @@
+{
+  "private": "-----BEGIN PRIVATE KEY-----\r\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgNufkgHAeXvUglT8K\r\nXEZLEjRy7HhUYRQtSKGsjiKJ+06hRANCAARS+Fy1Bdvg+guh1sX/Acw5x8VdfwBy\r\nH2TNh1m6FVS/9ciejqqMWd/SYhTe0gtl/dnoSKWYZIF/uJWno+65S6kJ\r\n-----END PRIVATE KEY-----\r\n",
+  "public": "-----BEGIN PUBLIC KEY-----\r\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUvhctQXb4PoLodbF/wHMOcfFXX8A\r\nch9kzYdZuhVUv/XIno6qjFnf0mIU3tILZf3Z6EilmGSBf7iVp6PuuUupCQ==\r\n-----END PUBLIC KEY-----\r\n",
+  "cert": "-----BEGIN CERTIFICATE-----\r\nMIIByzCCAaKgAwIBAgIJA6laEhBX9KXvMAwGCCqGSM49BAMCBQAwXjELMAkGA1UE\r\nBhMCVVMxCzAJBgNVBAgTAklMMRAwDgYDVQQHEwdDaGljYWdvMRwwGgYDVQQKExNM\r\nZXNzIFRoYW4gVGhyZWUgTExDMRIwEAYDVQQDEwkxMjcuMC4wLjEwIBcNMjMwMjAx\r\nMTUyOTA0WhgPMjI5NjExMTUxNTI5MDRaMF4xCzAJBgNVBAYTAlVTMQswCQYDVQQI\r\nEwJJTDEQMA4GA1UEBxMHQ2hpY2FnbzEcMBoGA1UEChMTTGVzcyBUaGFuIFRocmVl\r\nIExMQzESMBAGA1UEAxMJMTI3LjAuMC4xMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD\r\nQgAEUvhctQXb4PoLodbF/wHMOcfFXX8Ach9kzYdZuhVUv/XIno6qjFnf0mIU3tIL\r\nZf3Z6EilmGSBf7iVp6PuuUupCaNFMEMwDAYDVR0TBAUwAwEB/zALBgNVHQ8EBAMC\r\nAvQwJgYDVR0RBB8wHYYbaHR0cDovL2V4YW1wbGUub3JnL3dlYmlkI21lMAwGCCqG\r\nSM49BAMCBQADFQBbb2JqZWN0IEFycmF5QnVmZmVyXQ==\r\n-----END CERTIFICATE-----\r\n",
+  "hash": {
+    "type": "Buffer",
+    "data": [
+      108,
+      9,
+      14,
+      111,
+      70,
+      49,
+      150,
+      149,
+      152,
+      116,
+      254,
+      232,
+      119,
+      227,
+      120,
+      86,
+      118,
+      141,
+      149,
+      68,
+      132,
+      11,
+      251,
+      248,
+      238,
+      46,
+      52,
+      93,
+      72,
+      244,
+      163,
+      99
+    ]
+  },
+  "fingerprint": "6C:09:0E:6F:46:31:96:95:98:74:FE:E8:77:E3:78:56:76:8D:95:44:84:0B:FB:F8:EE:2E:34:5D:48:F4:A3:63"
+}
