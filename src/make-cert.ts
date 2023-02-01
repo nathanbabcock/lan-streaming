@@ -17,7 +17,7 @@ const certificate = await generateWebTransportCertificate(attrs, {
 
 console.log({ certificate })
 
-const path = 'cert/cert.json'
+const path = 'cert.json'
 writeFileSync(path, JSON.stringify(certificate, null, 2))
 
 console.log(`Wrote to ${path}`)

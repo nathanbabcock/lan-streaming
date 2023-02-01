@@ -2,19 +2,16 @@ import {
   Http3Server,
   type WebTransportBidirectionalStream,
 } from '@fails-components/webtransport'
-import { readFileSync } from 'node:fs'
+import certificate from '../cert.json' assert { type: 'json' }
 
 console.log('Hello world!')
-
-const cert = readFileSync('cert/localhost.pem', 'utf8')
-const privKey = readFileSync('cert/localhost-key.pem', 'utf8')
 
 const server = new Http3Server({
   port: 3001,
   host: '127.0.0.1',
-  secret: '',
-  cert, // unclear if it is the correct format
-  privKey,
+  secret: 'notsosecret',
+  cert: certificate.cert, // unclear if it is the correct format
+  privKey: certificate.private,
 })
 
 server.startServer()
