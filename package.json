@@ -4,7 +4,7 @@
   "description": "Streaming video on WebTransport with sub-frame latency, lossless resolution, and high bandwidth.",
   "type": "module",
   "scripts": {
-    "start": "ts-node-esm src/server.ts"
+    "start": "ts-node --esm src/server.ts"
   },
   "repository": {
     "type": "git",
