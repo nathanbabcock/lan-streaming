@@ -1,0 +1,26 @@
+{
+  "name": "lan-streaming",
+  "version": "0.0.0",
+  "description": "Streaming video on WebTransport with sub-frame latency, lossless resolution, and high bandwidth.",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node-esm index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanbabcock/lan-streaming.git"
+  },
+  "author": "Nathan Babcock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanbabcock/lan-streaming/issues"
+  },
+  "homepage": "https://github.com/nathanbabcock/lan-streaming#readme",
+  "dependencies": {
+    "@fails-components/webtransport": "^0.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^5.0.0-beta"
+  }
+}
